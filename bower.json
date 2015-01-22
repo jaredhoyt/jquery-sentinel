@@ -1,0 +1,25 @@
+{
+  "name": "jquery-sentinel",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jaredhoyt/jquery-sentinel",
+  "description": "jQuery plugin for flexible form validation.",
+  "main": "src/jquery.sentinel.js",
+  "keywords": [
+    "form",
+    "validation"
+  ],
+  "authors": [
+    "Jared Hoyt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}

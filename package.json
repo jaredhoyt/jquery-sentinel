@@ -1,0 +1,30 @@
+{
+  "name": "jquery-sentinel",
+  "homepage": "https://github.com/jaredhoyt/jquery-sentinel",
+  "description": "jQuery plugin for flexible form validation.",
+  "main": "src/jquery.sentinel.js",
+  "version": "0.1.0",
+  "keywords": [
+    "form",
+    "validation"
+  ],
+  "authors": [
+    "Jared Hoyt"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt qunit"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-qunit": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0"
+  }
+}
